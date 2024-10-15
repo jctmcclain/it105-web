@@ -1,8 +1,8 @@
-# Staring templates 
+# Starting Templates 
 
 ### from 2024.10.15
 
-### HTML + CSS 
+### HTML + CSS - Landing Page
 
 ```html
 <!DOCTYPE html>
@@ -34,7 +34,7 @@
 </html>
 ```
 
-### HTML + BOOTSTRAP
+### HTML + BOOTSTRAP - About Us
 
 ```html
 <!doctype html>
