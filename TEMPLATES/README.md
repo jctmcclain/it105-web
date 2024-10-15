@@ -2,9 +2,41 @@
 
 ### from 2024.10.15
 
+### HTML + CSS 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>HTML and CSS</title>
+        <style>
+        <!-- 
+            body {background-color: burlywood;
+            font-size:24pt;
+            color:white;
+            }
+        --> 
+        </style>
+    </head>
+    <body>
+        <table  cellpadding="10" border="1"> 
+        <tbody>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+        </tr>
+        
+        </tbody>
+        </table>
+    </body>
+</html>
+```
+
 ### HTML + BOOTSTRAP
 
-```HTML
+```html
 <!doctype html>
 <html lang="en">
   <head>
