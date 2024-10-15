@@ -20,6 +20,7 @@
         </style>
     </head>
     <body>
+        <h1>HTML Boilerplate</h1>
         <table  cellpadding="10" border="1"> 
         <tbody>
         <tr>
@@ -47,6 +48,9 @@
   </head>
   <body>
     <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h1>HTML Boilerplate<</h1></div>
+        </div>    
         <div class="row">
             <div class="col-md-4">Column One</div>
              <div class="col-md-4">Column Two</div>
